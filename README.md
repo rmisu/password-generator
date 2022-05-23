@@ -11,3 +11,6 @@ selected criteria by the user. Among the criteria that can be chosen are:
 
 After each condition is confirmed by the user, the values will be validated and a random password generated
 following the chosen criteria.
+
+Link to deployed webpage: https://rmisu.github.io/password-generator/
+

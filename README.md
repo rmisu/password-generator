@@ -14,3 +14,4 @@ following the chosen criteria.
 
 Link to deployed webpage: https://rmisu.github.io/password-generator/
 
+![Password Generator Original](https://user-images.githubusercontent.com/104178580/169741495-79ae59de-195f-453d-8746-7383ccef0240.png)
